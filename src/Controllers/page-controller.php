@@ -34,7 +34,7 @@ if(isset($_GET['option'])){
             break;
 
         case 6:
-            include_once "src/Views/instalaciones.php";
+            include_once "src/Views/egresados.php";
             break;
         
         case 7:

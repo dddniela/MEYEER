@@ -654,3 +654,9 @@
 .shadow-text {
   text-shadow: 2px 2px 10px black;
 }
+
+.responsive-list {
+  padding: 0; /* Eliminar el relleno predeterminado de la lista */
+  list-style-type: none; /* Quitar las viñetas/puntos predeterminados de la lista */
+  margin: 0; /* Eliminar márgenes predeterminados */
+}

@@ -14,7 +14,7 @@
         <img src="img/IBQ-IQ/P49.webp" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption d-flex flex-column">
-            <h1 class="mainTitle text-center font-bold m-2 shadow-text">Maestría en Ciencias en Ingeniería Bioquímica</h1>
+            <h1 class="mainTitle text-center font-bold m-2 shadow-text">Maestría en Eficiencia Energética y Energías Renovables Tecnológico Nacional de México Campus Veracruz</h1>
             <h2 class="mainSubtitle text-center font-bold shadow-text">Reconocimiento con acreditaciones internacionales</h1>
               <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=3">Explorar</a>
               </p>
@@ -26,7 +26,7 @@
         <img src="img/IBQ-IQ/P50.webp" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption">
-            <h1 class="mainTitle text-center font-bold m-2 shadow-text">Maestría en Ciencias en Ingeniería Bioquímica</h1>
+            <h1 class="mainTitle text-center font-bold m-2 shadow-text">Maestría en Eficiencia Energética y Energías Renovables</h1>
             <h2 class="mainSubtitle text-center font-bold shadow-text">Participa en la tecnología e innovación</h1>
               <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=1">Explorar</a></p>
           </div>
@@ -37,7 +37,7 @@
         <img src="img/IBQ-IQ/P39.webp" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption">
-            <h1 class="mainTitle text-center font-bold m-2 shadow-text">Maestría en Ciencias en Ingeniería Bioquímica</h1>
+            <h1 class="mainTitle text-center font-bold m-2 shadow-text">Maestría en Eficiencia Energética y Energías Renovables</h1>
             <h2 class="mainSubtitle text-center font-bold d-none d-md-inline-flex shadow-text">Impacto positivo para la sociedad</h1>
             <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=5">Explorar</a></p>
           </div>
@@ -48,7 +48,7 @@
         <img src="img/IBQ-IQ/P51.webp" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption">
-            <h1 class="mainTitle text-center font-bold m-2 shadow-text">Maestría en Ciencias en Ingeniería Bioquímica</h1>
+            <h1 class="mainTitle text-center font-bold m-2 shadow-text">Maestría en Eficiencia Energética y Energías Renovables</h1>
             <h2 class="mainSubtitle text-center font-bold shadow-text">Cumplimiento de normas nacionales e internacionales</h1>
               <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=1">Explorar</a></p>
           </div>
@@ -93,27 +93,12 @@
     <div class="seccion-texto-separador"></div>
     <a href="?option=3" class="seccion-lista-item">
       <img class="seccion-lista-icono" src="img/topicos/procesosIndustriales.png" alt="">
-      <h5 class="seccion-lista-parrafo">Aplicaciones de la Biología Molecular en Ingeniería Metabólica, Biocatálisis y Control Biológico</h5>
+      <h5 class="seccion-lista-parrafo">Sustentabilidad en sistemas Energéticos</h5>
     </a>
 
     <a href="?option=3" class="seccion-lista-item">
       <img class="seccion-lista-icono" src="img/topicos/controlProcesos.png" alt="">
-      <h5 class="seccion-lista-parrafo">Estudios Nutrigenéticos, Funcionales y Toxicológicos de Alimentos</h5>
-    </a>
-
-    <a href="?option=3" class="seccion-lista-item">
-      <img class="seccion-lista-icono" src="img/topicos/riesgosIndustriales.png" alt="">
-      <h5 class="seccion-lista-parrafo">Ingeniería y Tecnología de Procesos Biológicos</h5>
-    </a>
-
-    <a href="?option=3" class="seccion-lista-item">
-      <img class="seccion-lista-icono" src="img/topicos/formulacionProyectos.png" alt="">
-      <h5 class="seccion-lista-parrafo">Tecnología y Nanotecnología de Alimentos</h5>
-    </a>
-
-    <a href="?option=3" class="seccion-lista-item">
-      <img class="seccion-lista-icono" src="img/topicos/analisisQuimico.png" alt="">
-      <h5 class="seccion-lista-parrafo">Ingeniería de Alimentos</h5>
+      <h5 class="seccion-lista-parrafo">Control de procesos energéticos</h5>
     </a>
   </div>
 </section>
@@ -214,5 +199,6 @@
   </div>
 
   <img class="seccion-imagen" src="img/laboratorios/fisico-quimica/IMG_7420.jpg" alt="">
-
 </section>
+
+
