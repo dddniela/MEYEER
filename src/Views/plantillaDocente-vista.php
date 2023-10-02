@@ -1,3 +1,4 @@
+
 <div class="row g-0">
   <div class="position-relative w-100 overflow-hidden">
     <img class="w-100 img-fluid" src="img/IBQ-IQ/P15.webp" alt="" />
@@ -7,7 +8,7 @@
       >
         <h1 class="fw-bold text-warning shadow-text">Plantilla Docente</h1>
         <h1 class="fw-bold text-light d-md-flex d-none shadow-text">
-          Ingeniería Química
+        Maestría en Eficiencia Energéticas Y Energías Renovables
         </h1>
       </div>
     </div>

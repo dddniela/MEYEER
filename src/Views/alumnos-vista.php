@@ -1,11 +1,11 @@
 <!-- Sección: Portada -->
 <div class="row g-0">
     <div class="position-relative w-100 overflow-hidden">
-        <img class="w-100 img-fluid" src="img/IBQ-IQ/P20.webp" alt="">
+        <img class="w-100 img-fluid" src="img/Instalaciones.jpg" alt="">
         <div class="position-absolute top-50 start-50 translate-middle w-100">
             <div class="d-flex flex-column justify-content-center align-items-center text-center">
                 <h1 class="fw-bold text-warning shadow-text">Alumnos</h1>
-                <h1 class="fw-bold text-light d-md-flex d-none shadow-text">Maestría en Ciencias en Ingeniería Bioquímica</h1>
+                <h1 class="fw-bold text-light d-md-flex d-none shadow-text">Maestría en Eficiencia Energéticas Y Energías Renovables</h1>
             </div>
         </div>
     </div>
@@ -14,7 +14,7 @@
 <!-- Sección: Perfil de ingreso -->
 <section class="seccion-contenedor">
 
-    <img class="seccion-imagen" src="img/laboratorios/genetica-aplicada/IMG_7512.jpg" alt="">
+    <img class="seccion-imagen" src="img/aspirante.JPG" alt="">
 
     <div class="seccion-texto">
         <h2 class="seccion-texto-titulo">Objetivo General</h2>

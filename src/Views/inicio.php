@@ -5,13 +5,11 @@
       <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true"
         aria-label="Slide 1"></button>
       <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
     </div>
 
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="img/IBQ-IQ/P49.webp" class="d-block w-100 align-middle" width="100%" height="100%">
+        <img src="img/conocenos2.jpg" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption d-flex flex-column">
             <h1 class="mainTitle text-center font-bold m-2 shadow-text">Maestría en Eficiencia Energética y Energías Renovables Tecnológico Nacional de México Campus Veracruz</h1>
@@ -23,7 +21,7 @@
       </div>
 
       <div class="carousel-item">
-        <img src="img/IBQ-IQ/P50.webp" class="d-block w-100 align-middle" width="100%" height="100%">
+        <img src="img/logoitver.jpg" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption">
             <h1 class="mainTitle text-center font-bold m-2 shadow-text">Maestría en Eficiencia Energética y Energías Renovables</h1>
@@ -33,27 +31,8 @@
         </div>
       </div>
 
-      <div class="carousel-item">
-        <img src="img/IBQ-IQ/P39.webp" class="d-block w-100 align-middle" width="100%" height="100%">
-        <div class="container">
-          <div class="carousel-caption">
-            <h1 class="mainTitle text-center font-bold m-2 shadow-text">Maestría en Eficiencia Energética y Energías Renovables</h1>
-            <h2 class="mainSubtitle text-center font-bold d-none d-md-inline-flex shadow-text">Impacto positivo para la sociedad</h1>
-            <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=5">Explorar</a></p>
-          </div>
-        </div>
-      </div>
 
-      <div class="carousel-item">
-        <img src="img/IBQ-IQ/P51.webp" class="d-block w-100 align-middle" width="100%" height="100%">
-        <div class="container">
-          <div class="carousel-caption">
-            <h1 class="mainTitle text-center font-bold m-2 shadow-text">Maestría en Eficiencia Energética y Energías Renovables</h1>
-            <h2 class="mainSubtitle text-center font-bold shadow-text">Cumplimiento de normas nacionales e internacionales</h1>
-              <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=1">Explorar</a></p>
-          </div>
-        </div>
-      </div>
+     
     </div>
 
     <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
@@ -72,12 +51,16 @@
 <!-- Sección: Descripción de la maestría -->
 <section class="seccion-contenedor">
 
-    <img class="seccion-imagen" src="img/laboratorios/ingenieria-alimentos/IMG_7594.jpg" alt="">
+    <img class="seccion-imagen" src="img/alumnos.JPG" alt="">
 
     <div class="seccion-texto">
-      <h2 class="seccion-texto-titulo">Maestría en Ciencias en Ingeniería Bioquímica</h2>
+      <h2 class="seccion-texto-titulo">Maestría en Eficiencia Energética y Energías Renovables</h2>
       <div class="seccion-texto-separador"></div>
-      <p class="seccion-texto-parrafo">Desarrolla tu pasión por la biotecnología y la innovación inscribiéndote en nuestra Maestría en Ciencias en Ingeniería Bioquímica. Atrévete a explorar las maravillas de la ingeniería molecular y la transformación de la biología en soluciones prácticas. Únete a nosotros para ampliar tus horizontes, contribuir al progreso científico y convertirte en un líder en la creciente industria de la bioingeniería.</p>
+      <p class="seccion-texto-parrafo">Es un programa de posgrado diseñado para formar profesionales 
+        altamente especializados en el campo de la gestión y optimización de la energía, así como en 
+        el uso de fuentes de energía renovable. El objetivo principal es capacitar a los estudiantes 
+        en la aplicación de tecnologías y estrategias que permitan reducir el consumo de energía y 
+        fomentar el uso de fuentes energéticas limpias y sostenibles.</p>
       <a href="#" class="seccion-boton">Saber más</a>
     </div>
     
@@ -86,18 +69,18 @@
 <!-- Sección: Lineas de investigación -->
 <section class="seccion-contenedor">
 
-  <img class="seccion-imagen" src="img/laboratorios/ingenieria-alimentos/IMG_7572.jpg" alt="">
+  <img class="seccion-imagen" src="img/alumnos2.JPG" alt="">
 
   <div class="seccion-lista">
     <h2 class="seccion-texto-titulo">Líneas de investigación</h2>
     <div class="seccion-texto-separador"></div>
     <a href="?option=3" class="seccion-lista-item">
-      <img class="seccion-lista-icono" src="img/topicos/procesosIndustriales.png" alt="">
+      <img class="seccion-lista-icono" src="img/sustentabilidad.png" alt="">
       <h5 class="seccion-lista-parrafo">Sustentabilidad en sistemas Energéticos</h5>
     </a>
 
     <a href="?option=3" class="seccion-lista-item">
-      <img class="seccion-lista-icono" src="img/topicos/controlProcesos.png" alt="">
+      <img class="seccion-lista-icono" src="img/controlPro.png" alt="">
       <h5 class="seccion-lista-parrafo">Control de procesos energéticos</h5>
     </a>
   </div>
@@ -109,15 +92,21 @@
   <div class="seccion-texto">
     <h2 class="seccion-texto-titulo">Instalaciones</h2>
     <div class="seccion-texto-separador"></div>
-    <p class="seccion-texto-parrafo">Te invitamos a explorar los laboratorios que conforman nuestra Maestría en Ciencias en Ingeniería Bioquímica. Cada laboratorio ha sido meticulosamente diseñado para sumergirte en el fascinante mundo de la biotecnología y la ingeniería molecular. Desde la manipulación de biomoléculas hasta la producción de biofármacos, nuestros laboratorios ofrecen una plataforma única para poner en práctica tus habilidades y contribuir a la vanguardia de la investigación científica.</p>
+    <p class="seccion-texto-parrafo">Te invitamos a explorar los laboratorios 
+      de nuestra Maestría en Eficiencia Energética y Energías Renovables
+      que cuentan con excelencia académica y las oportunidades de aprendizaje que ofrecen 
+      los laboratorios especializados. Nuestro compromiso es brindar a 
+      los estudiantes un entorno enriquecedor y práctico donde puedan aplicar 
+      los conocimientos teóricos adquiridos en el aula en situaciones reales y 
+      proyectos innovadores.</p>
     <a href="?option=6" class="seccion-boton">Explorar</a>
   </div>
 
   <div class="seccion-galeria">
-    <img class="seccion-imagen" src="img/laboratorios/ingenieria-alimentos/IMG_7573.jpg" alt="">
-    <img class="seccion-imagen" src="img/laboratorios/fisico-quimica/IMG_7431.jpg" alt="">
-    <img class="seccion-imagen" src="img/laboratorios/genetica-aplicada/IMG_7502.jpg" alt="">
-    <img class="seccion-imagen" src="img/laboratorios/enzimologia/IMG_7486.jpg" alt="">
+    <img class="seccion-imagen" src="img/laboratorio/PLC.JPG" alt="">
+    <img class="seccion-imagen" src="img/laboratorio/lab2.JPG" alt="">
+    <img class="seccion-imagen" src="img/laboratorio/lab.JPG" alt="">
+    <img class="seccion-imagen" src="img/laboratorio/compus.JPG" alt="">
   </div>
 
 </section>
@@ -126,12 +115,12 @@
 <section class="seccion-contenedor">
 
   <div class="seccion-galeria">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/sandraPerezCorrea.webp" alt="">
+    <img class="seccion-imagen-pequeña" src="img/Docentes/franciscojaviergomezgonzalez.webp" alt="">
     <img class="seccion-imagen-pequeña" src="img/Docentes/genovevaDominguezSanchez.webp" alt="">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/manuelSusunagaMiranda.webp" alt="">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/joseBarranHerrera.webp" alt="">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/patriciaMendozaGarcia.webp" alt="">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/aniluMirandaMedina.webp" alt="">
+    <img class="seccion-imagen-pequeña" src="img/Docentes/marioDiazGonzalez.webp" alt="">
+    <img class="seccion-imagen-pequeña" src="img/Docentes/martinHernandezOrdonez.webp" alt="">
+    <img class="seccion-imagen-pequeña" src="img/Docentes/joseluisfernandopalomequeloyo.webp" alt="">
+    <img class="seccion-imagen-pequeña" src="img/Docentes/benignoOrtizMuniz.webp " alt="">
   </div>
 
   <div class="seccion-texto">

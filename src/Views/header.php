@@ -148,7 +148,7 @@
                         <a class="nav-link active hover-blue" href="?option=5">Núcleo Académico</a>
                     </li>
                     <li class="nav-item hover-blue">
-                        <a class="nav-link active hover-blue" href="?option=6">Instalaciones</a>
+                        <a class="nav-link active hover-blue" href="?option=6">Egresados</a>
                     </li>
                     <li class="nav-item hover-blue">
                         <a class="nav-link active hover-blue" href="?option=7">Contacto</a>
@@ -157,7 +157,7 @@
                         <a class="nav-link active dropdown-toggle hover-blue" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Enlaces
                         </a>
-                        <ul class="dropdown-menu" style="background-color: #312e81;" aria-labelledby="navbarDropdown">
+                        <ul class="dropdown-menu" style="background-color: #1B396A;" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item hover-blue" target="_blank" href="https://www.tecnm.mx/">TECNM</a></li>
                             <li><a class="dropdown-item hover-blue" target="_blank" href="http://www.veracruz.tecnm.mx/">ITVER</a></li>
                             <li><a class="dropdown-item hover-blue" target="_blank" href="https://sii.veracruz.tecnm.mx/">SII</a></li>

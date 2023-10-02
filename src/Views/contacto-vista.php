@@ -6,7 +6,7 @@
       <div class="d-flex flex-column justify-content-center align-items-center text-center">
         <h1 class="fw-bold text-warning shadow-text">Contacto</h1>
         <h1 class="fw-bold text-light d-md-flex d-none shadow-text">
-          Maestría en Ciencias en Ingeniería Bioquímica
+         Maestría en Eficiencia Energéticas Y Energías Renovables
         </h1>
       </div>
     </div>
@@ -98,7 +98,7 @@
 
   <div class="col-lg-6 col-12 p-2 shadow-sm">
     <div class="d-flex justify-content-center align-items-center w-100 h-100">
-        <img class="img-fluid rounded" src="img/IBQ-IQ/zorbaJosueHernandezEstrada.png" alt="">
+        <img class="img-fluid rounded" src="img/Docentes/cinthyaAlejandraSosaVillalobos.webp" alt="">
       </div>
     </div>
 
@@ -106,17 +106,18 @@
       <div class="d-flex justify-content-center align-items-center w-100 h-100">
         <div class="row g-0">
           <div class="col-12">
-            <h2 class="sectionTitle text-center font-bold m-3">Zorba Josué Hernández Estrada</h2>
+            <h2 class="sectionTitle text-center font-bold m-3">Cinthya Alejandra Sosa Villalobos</h2>
             <div class="sectionSeparator"></div>
             <h4 class="text-center fw-bold fs-3">
-              Coordinador de la Maestría en Ciencias en Ingeniería Bioquímica
+            Coordinadora de Maestría en Eficiencia Energética y Energías Renovables
             </h4>
           </div>
           <div class="col-12 px-4" style="text-align: center;">
             <p class="" style="text-align: justify">
-              Zorba Josué Hernández Estrada, coordinador de la Maestría en Ciencias en Ingeniería Bioquímica
-              en el Tecnológico de Veracruz; licenciado en ingeniería agroindustrial, 
-              con maestría en ciencias en materiales y doctorado en ciencias en materiales. 
+              Cinthya Alejandra Sosa Villalobos, Estancia Posdoctoral CONACYT, 
+              Doctorado en Territorio y Medio Ambiente por la Universidad Politécnica de Madrid, 
+              Ingeniería Química por TecNM Campus Minatitlán. Sistema Nacional de Investigadores 1, 
+              Perfil PRODEP.
               En el cargo de coordinación, su función principal,
               es la orientación académica de los alumnos estudiantes de dicha
               maestría a lo largo de su estancia en la Institución, para un

@@ -14,7 +14,7 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
       <div class="d-flex flex-column justify-content-center align-items-center text-center">
         <h1 class="fw-bold text-warning shadow-text">Conócenos</h1>
         <h1 class="fw-bold text-light d-md-flex d-none shadow-text">
-          Ingeniería Química
+         Maestría en Eficiencia Energéticas Y Energías Renovables
         </h1>
       </div>
     </div>

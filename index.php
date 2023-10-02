@@ -1,31 +1,28 @@
-<?php /*
-    require_once("src/Models/Conexion.php");
-    require_once "src/Models/Docente.php";
-    require_once("src/Models/Materia.php");
-    require_once("src/Models/Especialidad.php");
-    require_once("src/Models/Comunidad.php");
 
-    */
-    $url = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-    
-    $urlControl = array(
-        $_SERVER['SERVER_NAME'] . "/Ingenieria-Quimica/",
-        $_SERVER['SERVER_NAME'] . "/Ingenieria-Quimica/?option=0"
-    );
-    
-    /*
-    $programaId = 3;
-    $conn = new Conexion();
-    $conn->connect();
-    $docente = new Docente();
-    $docente->setConnection($conn->getDB());
-    $materia = new Materia();
-    $materia->setConnection($conn->getDB());
-    $especialidad = new Especialidad();
-    $especialidad->setConnection($conn->getDB());
-    $comunidad = new Comunidad();
-    $comunidad->setConnection($conn->getDB());
-*/
+<?php
+require_once("src/Models/Conexion.php");
+require_once "src/Models/Docente.php";
+require_once "src/Models/Egresado.php";
+
+
+$url = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+
+$urlControl = array(
+    $_SERVER['SERVER_NAME'] . "/MEEYER/",
+    $_SERVER['SERVER_NAME'] . "/MEEYER/?option=0"
+);
+
+
+$programaId = 15;
+$api = 'http://localhost:3010';
+$PATH_DOCENTE =  $GLOBALS['api'] . '/imagenes/MEEYER/docentes/';
+
+$conn = new Conexion();
+$conn->connect();
+$docente = new Docente();
+$docente->setConnection($conn->getDB());
+$egresado = new Egresado();
+$egresado->setConnection($conn->getDB())
 ?>
 
 <!DOCTYPE html>
