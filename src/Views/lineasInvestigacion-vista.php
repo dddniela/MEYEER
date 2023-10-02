@@ -4,7 +4,7 @@
         <div class="position-absolute top-50 start-50 translate-middle w-100">
             <div class="d-flex flex-column justify-content-center align-items-center text-center">
                 <h1 class="fw-bold text-warning shadow-text">Líneas de investigación</h1>
-                <h1 class="fw-bold text-light d-md-flex d-none shadow-text">Maestría en Eficiencia Energéticas Y Energías Renovables</h1>
+                <h1 class="fw-bold text-light d-md-flex d-none shadow-text">Maestría en Eficiencia Energética Y Energías Renovables</h1>
             </div>
         </div>
     </div>
@@ -230,7 +230,7 @@
                             <a target="blank"
                                 href="http://meeyer.veracruz.tecnm.mx/images/includes/ASIGNATURAS%20MEEYER/LGAC_CONTROL%20DE%20PROCESOS%20ENERG%C3%89TICOS/Visi%C3%B3n%20Artificial.pdf"
                                 class="seccion-lista-item">
-                                <h5 class="seccion-lista-parrafo">Visión Artificia</h5>
+                                <h5 class="seccion-lista-parrafo">Visión Artificial</h5>
                             </a>
                         </div>
                         <img class="seccion-imagen" src="img/ITVER-9.webp" alt="">

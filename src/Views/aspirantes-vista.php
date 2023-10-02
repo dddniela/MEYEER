@@ -5,7 +5,7 @@
         <div class="position-absolute top-50 start-50 translate-middle w-100">
             <div class="d-flex flex-column justify-content-center align-items-center text-center">
                 <h1 class="fw-bold text-warning shadow-text">Aspirantes</h1>
-                <h1 class="fw-bold text-light d-md-flex d-none shadow-text">Maestría en Eficiencia Energéticas Y Energías Renovables</h1>
+                <h1 class="fw-bold text-light d-md-flex d-none shadow-text">Maestría en Eficiencia Energética Y Energías Renovables</h1>
             </div>
         </div>
     </div>
@@ -47,6 +47,6 @@
         <li class="seccion-texto-lista-item">Finalmente a Servicios Escolares para entrega de documentación requerido una vez concluido este proceso el aspirante estará formalmente inscrito.</li>
     </div>
 
-    <img class="seccion-imagen" src="img/laboratorios/bioprocesos/IMG_7636.jpg" alt="">
+    <img class="seccion-imagen" src="img/IMG_1129.JPG" alt="">
 
 </section>

@@ -12,7 +12,7 @@
         <img src="img/conocenos2.jpg" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption d-flex flex-column">
-            <h1 class="mainTitle text-center font-bold m-2 shadow-text">Maestría en Eficiencia Energética y Energías Renovables Tecnológico Nacional de México Campus Veracruz</h1>
+            <h1 class="mainTitle text-center font-bold m-2 shadow-text">Maestría en Eficiencia Energética y Energías Renovables</h1>
             <h2 class="mainSubtitle text-center font-bold shadow-text">Reconocimiento con acreditaciones internacionales</h1>
               <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=3">Explorar</a>
               </p>
@@ -29,10 +29,7 @@
               <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=1">Explorar</a></p>
           </div>
         </div>
-      </div>
-
-
-     
+      </div>     
     </div>
 
     <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
@@ -159,35 +156,83 @@
     </a>
   </div>
 
-  <img class="seccion-imagen" src="img/laboratorios/IMG_7462.jpg" alt="">
+  <img class="seccion-imagen" src="img/IMG_1166.JPG" alt="">
 
 </section>
 
 <!-- Redes sociales -->
-<section class="seccion-contenedor">
-
-  <div class="seccion-lista">
-    <h2 class="seccion-texto-titulo">Redes sociales</h2>
-    <div class="seccion-texto-separador"></div>
-
-    <h3 class="seccion-texto-subtitulo">Tecnológico Nacional de México</h3>
-    <div class="seccion-redes">
-      <a href="https://www.tecnm.mx"><img class="seccion-redes-icono" src="img/iconos/tecnm-logo.PNG" alt=""></a>
-      <a href="https://www.facebook.com/TecNMmx"><img class="seccion-redes-icono" src="img/iconos/facebook.PNG" alt=""></a>
-      <a href="https://twitter.com/TecNM_MX"><img class="seccion-redes-icono" src="img/iconos/twitterX.png" alt=""></a>
-      <a href="https://www.youtube.com/user/SNESTMX"><img class="seccion-redes-icono" src="img/iconos/youtube.PNG" alt=""></a>
-    </div>
-
-    <h3 class="seccion-texto-subtitulo">Instituto Tecnológico de Veracruz</h3>
-    <div class="seccion-redes">
-      <a href="https://www.veracruz.tecnm.mx/index.php"><img class="seccion-redes-icono" src="img/iconos/itver-logo.PNG" alt=""></a>
-      <a href="https://www.facebook.com/ITVeracruz"><img class="seccion-redes-icono" src="img/iconos/facebook.PNG" alt=""></a>
-      <a href="https://twitter.com/tvitver"><img class="seccion-redes-icono" src="img/iconos/twitterX.png" alt=""></a>
-      <a href="https://www.youtube.com/channel/UCVBkOP_rj5ulvlriG88jTzA"><img class="seccion-redes-icono" src="img/iconos/youtube.PNG" alt=""></a>
+<!-- Área de redes sociales -->
+<section class="lightSection p-2 g-0">
+  <div class="row g-0">
+    <div class="col">
+      <h2 class="sectionTitle text-center font-bold m-3">Redes sociales</h2>
+      <div class="sectionSeparator"></div>
     </div>
   </div>
-
-  <img class="seccion-imagen" src="img/laboratorios/fisico-quimica/IMG_7420.jpg" alt="">
 </section>
+<section class="p-2 g-0">
+  <div class="row g-0">
+    <div class="col-12 col-md-6">
 
+      <h4 class="sectionTitle text-center font-bold">Tecnológico Nacional de México</h4>
 
+      <div class="d-flex flex-row justify-content-center">
+        <a class="mx-2" href="https://www.tecnm.mx/" target="_blank" style="text-decoration: none;">
+          <div class="d-flex flex-column justify-content-center">
+            <img class="img-fluid shadow-1-strong rounded mb-4 p-1" style="height: 40px"
+              src="img/iconos/tecnm-logo.PNG" alt="">
+          </div>
+        </a>
+        <a class="mx-2" href="https://www.facebook.com/TecNMmx" target="_blank" style="text-decoration: none;">
+          <div class="d-flex flex-row justify-content-center">
+            <img class="img-fluid shadow-1-strong rounded mb-4 p-1" style="height: 40px" src="img/iconos/facebook.PNG"
+              alt="">
+          </div>
+        </a>
+        <a class="mx-2" href="https://x.com/TecNM_MX" target="_blank" style="text-decoration: none;">
+          <div class="d-flex flex-row justify-content-center">
+            <img class="img-fluid shadow-1-strong rounded mb-4 p-1" style="height: 40px" src="img/iconos/twitterX.png"
+              alt="">
+          </div>
+        </a>
+        <a class="mx-2" href="https://www.youtube.com/user/SNESTMX" target="_blank" style="text-decoration: none;">
+          <div class="d-flex flex-row justify-content-center">
+            <img class="img-fluid shadow-1-strong rounded mb-4 p-1" style="height: 40px" src="img/iconos/youtube.PNG"
+              alt="">
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-12 col-md-6">
+      <h4 class="sectionTitle  text-center font-bold">Instituto Tecnológico de Veracruz</h4>
+      <div class="d-flex flex-row justify-content-center">
+        <a class="mx-2" href="https://www.veracruz.tecnm.mx/index.php" target="_blank" style="text-decoration: none;">
+          <div class="d-flex flex-row justify-content-center">
+            <img class="img-fluid shadow-1-strong rounded mb-4 p-1" style="height: 40px"
+              src="img/iconos/itver-logo.PNG" alt="">
+          </div>
+        </a>
+        <a class="mx-2" href="https://www.facebook.com/ITVeracruz" target="_blank" style="text-decoration: none;">
+          <div class="d-flex flex-row justify-content-center">
+            <img class="img-fluid shadow-1-strong rounded mb-4 p-1" style="height: 40px" src="img/iconos/facebook.PNG"
+              alt="">
+          </div>
+        </a>
+        <a class="mx-2" href="https://twitter.com/TecNM_Veracruz" target="_blank" style="text-decoration: none;">
+          <div class="d-flex flex-row justify-content-center">
+            <img class="img-fluid shadow-1-strong rounded mb-4 p-1" style="height: 40px" src="img/iconos/twitterX.png"
+              alt="">
+          </div>
+        </a>
+        <a class="mx-2" href="https://www.youtube.com/channel/UCVBkOP_rj5ulvlriG88jTzA" target="_blank"
+          style="text-decoration: none;">
+          <div class="d-flex flex-row justify-content-center">
+            <img class="img-fluid shadow-1-strong rounded mb-4 p-1" style="height: 40px" src="img/iconos/youtube.PNG"
+              alt="">
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Fin Área de redes sociales -->

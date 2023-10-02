@@ -6,7 +6,7 @@
       <div class="d-flex flex-column justify-content-center align-items-center text-center">
         <h1 class="fw-bold text-warning shadow-text">Contacto</h1>
         <h1 class="fw-bold text-light d-md-flex d-none shadow-text">
-         Maestría en Eficiencia Energéticas Y Energías Renovables
+         Maestría en Eficiencia Energética Y Energías Renovables
         </h1>
       </div>
     </div>

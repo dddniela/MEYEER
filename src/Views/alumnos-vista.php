@@ -5,7 +5,7 @@
         <div class="position-absolute top-50 start-50 translate-middle w-100">
             <div class="d-flex flex-column justify-content-center align-items-center text-center">
                 <h1 class="fw-bold text-warning shadow-text">Alumnos</h1>
-                <h1 class="fw-bold text-light d-md-flex d-none shadow-text">Maestría en Eficiencia Energéticas Y Energías Renovables</h1>
+                <h1 class="fw-bold text-light d-md-flex d-none shadow-text">Maestría en Eficiencia Energética Y Energías Renovables</h1>
             </div>
         </div>
     </div>
@@ -14,7 +14,7 @@
 <!-- Sección: Perfil de ingreso -->
 <section class="seccion-contenedor">
 
-    <img class="seccion-imagen" src="img/aspirante.JPG" alt="">
+    <img class="seccion-imagen" src="img/IMG_1175.JPG" alt="">
 
     <div class="seccion-texto">
         <h2 class="seccion-texto-titulo">Objetivo General</h2>
@@ -46,13 +46,13 @@
         <li class="seccion-texto-lista-item">Incumplir cualquiera de estas u otras disposiciones emitidas por las instancias educativas al efecto será causa para la baja definitiva del estudiante del programa respectivo.</li>
         
     </div>
-    <img class="seccion-imagen" src="img/laboratorios/bioprocesos/IMG_7636.jpg" alt="">
+    <img class="seccion-imagen" src="img/IMG_1140.JPG" alt="">
 
 </section>
 
 <!-- Sección: Perfil Egreso -->
 <section class="seccion-contenedor">
-<img class="seccion-imagen" src="img/Alumnos/seccion3.webp" alt="">
+<img class="seccion-imagen" src="img/IMG_1161.JPG" alt="">
     <div class="seccion-texto">
         <h2 class="seccion-texto-titulo">Perfil de egreso</h2>
         <div class="seccion-texto-separador"></div>
@@ -94,12 +94,12 @@
           coordinar la ejecución de proyectos de uso racional y eficiente de la energía con aplicación 
           de las energías renovables.</p>
     </div>
-    <img class="seccion-imagen" src="img/Alumnos/seccion3.webp" alt="">
+    <img class="seccion-imagen" src="img/IMG_1171.JPG" alt="">
 </section>
 
 <!-- Sección: Habilidades -->
 <section class="seccion-contenedor">
-<img class="seccion-imagen" src="img/Alumnos/seccion3.webp" alt="">
+<img class="seccion-imagen" src="img/IMG_1164.JPG" alt="">
     <div class="seccion-texto">
         <h2 class="seccion-texto-titulo">Habilidades</h2>
         <div class="seccion-texto-separador"></div>
@@ -154,7 +154,7 @@
     </a>
     </div>
 
-    <img class="seccion-imagen" src="img/Alumnos/seccion3.webp" alt="">
+    <img class="seccion-imagen" src="img/IMG_1170.JPG" alt="">
   
 </section>
 

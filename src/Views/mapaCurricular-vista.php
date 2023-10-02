@@ -4,7 +4,7 @@
         <div class="position-absolute top-50 start-50 translate-middle w-100">
             <div class="d-flex flex-column justify-content-center align-items-center text-center">
                 <h1 class="fw-bold text-warning shadow-text">Mapa Curricular</h1>
-                <h1 class="fw-bold text-light d-md-flex d-none shadow-text">aestría en Eficiencia Energética y Energías Renovables Tecnológico Nacional de México Campus Veracruz</h1>
+                <h1 class="fw-bold text-light d-md-flex d-none shadow-text">Maestría en Eficiencia Energética y Energías Renovables Tecnológico Nacional de México Campus Veracruz</h1>
             </div>
         </div>
     </div>
