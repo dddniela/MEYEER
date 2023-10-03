@@ -96,7 +96,7 @@
       los estudiantes un entorno enriquecedor y práctico donde puedan aplicar 
       los conocimientos teóricos adquiridos en el aula en situaciones reales y 
       proyectos innovadores.</p>
-    <a href="?option=6" class="seccion-boton">Explorar</a>
+   <!-- <a href="?option=6" class="seccion-boton">Explorar</a>-->
   </div>
 
   <div class="seccion-galeria">
@@ -124,7 +124,7 @@
     <h2 class="seccion-texto-titulo">Comunidad docente</h2>
     <div class="seccion-texto-separador"></div>
     <p class="seccion-texto-parrafo">Disponemos de un cuerpo docente multidisciplinario conformado por agentes de cambio, con sólida formación de posgrado y una rica trayectoria en el ámbito pedagógico. Su dedicación a la excelencia educativa se evidencia a diario en las aulas. Estos profesionales tienen la capacidad de moldear destinos, de dejar una huella profunda en las próximas generaciones de estudiantes, y de efectuar una influencia duradera en la esfera académica y más allá.</p>
-    <a href="#" class="seccion-boton">Conocer</a>
+    <a href="?option=5" class="seccion-boton">Conocer</a>
   </div>
 
 </section>

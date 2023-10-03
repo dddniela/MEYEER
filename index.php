@@ -32,16 +32,15 @@ $egresado->setConnection($conn->getDB())
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="UNIDA">
-    <meta name="author" content=" Marco Gabriel Cortes Toledo, Daniela Castro Rodriguez, 
-    Nancy Daniela Mendez Arpidez, Yelitza Magali Rosas Jimenez, Gabriel Escobar Medina">
+    <meta name="keywords" content="Maestría,Eficiencia,Energética,Y,Energías,Renovables">
+    <meta name="author" content="Instituto Tecnologico de Veracruz/Tecnologico Nacional de México">
     <link rel="icon" href="img/itver-logo.PNG" />
 
     <link rel="stylesheet" href="assets/reset.css">
     <link rel="stylesheet" href="assets/estilos.css">
     <link rel="stylesheet" href="assets/css/bootstrap.css">
     <link rel="stylesheet" href="assets/style.css">
-    <title>MEEYER</title>
+    <title>Maestría en Eficiencia Energética Y Energías Renovables</title>
 </head>
 
 <?php 

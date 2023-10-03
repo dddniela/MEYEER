@@ -14,7 +14,7 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
       <div class="d-flex flex-column justify-content-center align-items-center text-center">
         <h1 class="fw-bold text-warning shadow-text">Conócenos</h1>
         <h1 class="fw-bold text-light d-md-flex d-none shadow-text">
-         Maestría en Eficiencia Energéticas Y Energías Renovables
+         Maestría en Eficiencia Energética Y Energías Renovables
         </h1>
       </div>
     </div>
@@ -47,7 +47,8 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
             y Bioquímica y su objetivo principal es el control de las actividades docentes de los programas de 
             estudio, la vinculación con el sector productivo para la contribución de la formación profesional 
             del estudiante, así como propiciar actividades científicas con la investigación documental 
-            y de campo.
+            y de campo.<br /><br />
+
             </p>
           </div>
         </div>
@@ -163,7 +164,8 @@ $jefeDepartamento =  $administrativos->getJefeDepartamento();
             <p class="text-center" style="color: white;">
             El departamento de Ingeniería Química-Bioquímica cuenta con diversos laboratorios en donde los estudiantes 
             planean y desarrollan experimentos para la obtención de datos que permiten la comprobación de los
-            conceptos teóricos estudiados en los cursos.
+            conceptos teóricos estudiados en los cursos. <br /><br />
+            
             </p>
         </div>
 
