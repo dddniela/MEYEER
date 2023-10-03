@@ -125,6 +125,13 @@ class Docente
             $informacionAcademica = $docente['informacionAcademica'];
             $materias = $docente['materias'];
             $contacto = $docente['contacto'];
+            $perfilDeseable = isset($docente['perfilDeseable']) ? $docente['perfilDeseable'] : 'No';
+            $sni = isset($docente['sni']) ? $docente['sni'] : 'No';
+            $orcid = isset($docente['orcid']) ? $docente['orcid'] : 'No';
+            $resumenCONAHCYT = isset($docente['resumenCONAHCYT']) ? $docente['resumenCONAHCYT'] : 'No';
+            $googleAcademico = isset($docente['googleAcademico']) ? $docente['googleAcademico'] : 'No';
+            $researchGate = isset($docente['researchGate']) ? $docente['researchGate'] : 'No';
+            $SCOPUS = isset($docente['SCOPUS']) ? $docente['SCOPUS'] : 'No';
             $urlImagen = $GLOBALS['PATH_DOCENTE'] . $docente['urlImagen'];
 
             $codigo .= "<div class='col-lg-4 col-sm-6 text-center p-3'>
@@ -191,7 +198,49 @@ class Docente
                                                 <div class='col-12'>
                                                     $contacto
                                                 </div>   
-                                        </div>
+                                            </div>
+                                            <div class='d-flex flex-row justify-content-start m-2' style='text-align: justify;'>
+                                                <div class='col-12'>
+                                                    <strong>Perfil deseable:</strong> <br>
+                                                    $perfilDeseable
+                                                </div> 
+                                            </div>
+                                            <div class='d-flex flex-row justify-content-start m-2' style='text-align: justify;'>
+                                                <div class='col-12'>
+                                                    <strong>SNI:</strong> <br>
+                                                    $sni
+                                                </div> 
+                                            </div>
+                                            <div class='d-flex flex-row justify-content-start m-2' style='text-align: justify;'>
+                                                <div class='col-12'>
+                                                    <strong>ORCID:</strong> <br>
+                                                    $orcid
+                                                </div> 
+                                            </div>
+                                            <div class='d-flex flex-row justify-content-start m-2' style='text-align: justify;'>
+                                                <div class='col-12'>
+                                                    <strong>Resumen CONAHCYT:</strong> <br>
+                                                    $resumenCONAHCYT
+                                                </div> 
+                                            </div>
+                                            <div class='d-flex flex-row justify-content-start m-2' style='text-align: justify;'>
+                                                <div class='col-12'>
+                                                    <strong>Google Académico:</strong> <br>
+                                                    $googleAcademico
+                                                </div> 
+                                            </div>
+                                            <div class='d-flex flex-row justify-content-start m-2' style='text-align: justify;'>
+                                                <div class='col-12'>
+                                                    <strong>Research Gate:</strong> <br>
+                                                    $researchGate
+                                                </div> 
+                                            </div>
+                                            <div class='d-flex flex-row justify-content-start m-2' style='text-align: justify;'>
+                                                <div class='col-12'>
+                                                    <strong>SCOPUS:</strong> <br>
+                                                    $SCOPUS
+                                                </div> 
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
