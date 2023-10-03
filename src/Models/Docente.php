@@ -11,6 +11,13 @@ class Docente
     private $informacionAcademica;
     private $materias;
     private $contacto;
+    private $perfilDeseable;
+    private $sni;
+    private $orcid;
+    private $resumenCONAHCYT;
+    private $googleAcademico;
+    private $researchGate;
+    private $SCOPUS;
     private $urlImagen;
     private $connection;
 
@@ -77,6 +84,76 @@ class Docente
     public function getContactoDocente()
     {
         return $this->contacto;
+    }
+
+    public function setPerfilDeseableDocente($perfilDeseable)
+    {
+        $this->perfilDeseable = $perfilDeseable;
+    }
+
+    public function getPerfilDeseableDocente()
+    {
+        return $this->perfilDeseable;
+    }
+
+    public function setSniDocente($sni)
+    {
+        $this->sni = $sni;
+    }
+
+    public function getSniDocente()
+    {
+        return $this->sni;
+    }
+
+    public function setOrcidDocente($orcid)
+    {
+        $this->orcid = $orcid;
+    }
+
+    public function getOrcidDocente()
+    {
+        return $this->orcid;
+    }
+
+    public function setResumenCONAHCYTDocente($resumenCONAHCYT)
+    {
+        $this->resumenCONAHCYT = $resumenCONAHCYT;
+    }
+
+    public function getResumenCONAHCYTDocente()
+    {
+        return $this->resumenCONAHCYT;
+    }
+
+    public function setGoogleAcademicoDocente($googleAcademico)
+    {
+        $this->googleAcademico = $googleAcademico;
+    }
+
+    public function getGoogleAcademicoDocente()
+    {
+        return $this->googleAcademico;
+    }
+
+    public function setResearchGateDocente($researchGate)
+    {
+        $this->researchGate = $researchGate;
+    }
+
+    public function getResearchGateDocente()
+    {
+        return $this->researchGate;
+    }
+
+    public function setScopusDocente($SCOPUS)
+    {
+        $this->SCOPUS = $SCOPUS;
+    }
+
+    public function getScopusDocente()
+    {
+        return $this->SCOPUS;
     }
 
     public function setImagenDocente($urlImagen)
