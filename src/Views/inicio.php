@@ -48,7 +48,7 @@
 <!-- Sección: Descripción de la maestría -->
 <section class="seccion-contenedor">
 
-    <img class="seccion-imagen" src="img/alumnos.JPG" alt="">
+    <img class="seccion-imagen" src="img/panel.jpeg" alt="">
 
     <div class="seccion-texto">
       <h2 class="seccion-texto-titulo">Maestría en Eficiencia Energética y Energías Renovables</h2>
